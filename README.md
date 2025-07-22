@@ -44,13 +44,7 @@ I am a recently graduated Software Development Technician possessing knowledge o
 
 <!-- Statistics -->
 
-<p align="center">
 ![Arkanhell26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkanhell26&show_icons=true&theme=shadow_blue)
-  
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
