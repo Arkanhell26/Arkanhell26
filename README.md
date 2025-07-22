@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-  <h1 align = "center">Hola soy Miguel Angel Moreno 👋</h1>
+  <h1 align = "center">Hi there I'm Miguel Angel Moreno 👋</h1>
 </div>
 
  ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/Banner.svg)
 
 
-  ## Sobre mi:
+  ## About me:
 
 I am a recently graduated Software Development Technician possessing knowledge of Java, SQL, GitHub, and foundational skills in HTML, CSS, and JavaScript. I am focused on developing my skills as a backend developer, equipped with strong problem-solving abilities, a creative and analytical mindset, and the capacity to perform well under pressure and in collaborative environments. I continuously seek opportunities to learn, contribute to meaningful projects, and advance my technical expertise.
 
