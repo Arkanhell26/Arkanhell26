@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 I am a recently graduated Software Development Technician possessing knowledge of Java, SQL, GitHub, and foundational skills in HTML, CSS, and JavaScript. I am focused on developing my skills as a backend developer, equipped with strong problem-solving abilities, a creative and analytical mindset, and the capacity to perform well under pressure and in collaborative environments. I continuously seek opportunities to learn, contribute to meaningful projects, and advance my technical expertise.
 
-<br>
+
 
 <div id="user-content-toc">
   <ul align="center">
