@@ -38,7 +38,7 @@ I am a recently graduated Software Development Technician possessing knowledge o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,vscodeh,html,css,js,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,discord,vscode,html,css,js,java,mysql" />
   </a>
 </p>
 
