@@ -24,19 +24,21 @@ Here are some ideas to get you started:
 
   ## Sobre mi:
 
-I am a recently graduated Software Development Technician, with knowledge of HTML, CSS, and JavaScript, and a more advanced understanding of Java, SQL, and GitHub. Although my experience with object-oriented programming is still developing, I am focused on continuing to learn and specializing in backend development.
-
-I consider myself a creative person with an analytical mindset and a strong focus on problem-solving. I enjoy tackling technical challenges, learning new technologies, and working collaboratively. I also perform well under pressure and have the ability to understand English documentation and resources, which allows me to stay up-to-date and keep growing professionally.
-
-I am always looking for opportunities to grow, contribute to real-world projects, and strengthen my software development skills.
-
-I am a recently graduated Software Development Technician, with knowledge of HTML, CSS, and JavaScript, and a more advanced understanding of Java, SQL, and GitHub. Although my experience with object-oriented programming is still developing, I am focused on continuing to learn and specializing in backend development.
-
-I consider myself a creative person with an analytical mindset and a strong focus on problem-solving. I enjoy tackling technical challenges, learning new technologies, and working collaboratively. I also perform well under pressure and have the ability to understand English documentation and resources, which allows me to stay up-to-date and keep growing professionally.
-
-I am always looking for opportunities to grow, contribute to real-world projects, and strengthen my software development skills.
+I am a recently graduated Software Development Technician possessing knowledge of Java, SQL, GitHub, and foundational skills in HTML, CSS, and JavaScript. I am focused on developing my skills as a backend developer, equipped with strong problem-solving abilities, a creative and analytical mindset, and the capacity to perform well under pressure and in collaborative environments. I continuously seek opportunities to learn, contribute to meaningful projects, and advance my technical expertise.
 
 
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
 
 
