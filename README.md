@@ -44,7 +44,7 @@ I am a recently graduated Software Development Technician possessing knowledge o
 
 <!-- Statistics -->
 
-
+<p align="center">
 ![Arkanhell26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkanhell26&show_icons=true&theme=shadow_blue)
   
   <a href="https://github.com/Adityakanoi2001">
