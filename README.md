@@ -43,6 +43,8 @@ I am a recently graduated Software Development Technician possessing knowledge o
 </p>
 
 <br>
+<br>
+<br>
 
 <!-- Statistics -->
 
