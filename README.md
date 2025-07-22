@@ -19,23 +19,25 @@ Here are some ideas to get you started:
   <h1 align = "center">Hola soy Miguel Angel Moreno 👋</h1>
 </div>
 
+ ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/Banner.svg)
+
 <div align = "center">
-   ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/Banner.svg)
+  ## Sobre mi:
+
+I am a recently graduated Software Development Technician, with knowledge of HTML, CSS, and JavaScript, and a more advanced understanding of Java, SQL, and GitHub. Although my experience with object-oriented programming is still developing, I am focused on continuing to learn and specializing in backend development.
+
+I consider myself a creative person with an analytical mindset and a strong focus on problem-solving. I enjoy tackling technical challenges, learning new technologies, and working collaboratively. I also perform well under pressure and have the ability to understand English documentation and resources, which allows me to stay up-to-date and keep growing professionally.
+
+I am always looking for opportunities to grow, contribute to real-world projects, and strengthen my software development skills.
+
+I am a recently graduated Software Development Technician, with knowledge of HTML, CSS, and JavaScript, and a more advanced understanding of Java, SQL, and GitHub. Although my experience with object-oriented programming is still developing, I am focused on continuing to learn and specializing in backend development.
+
+I consider myself a creative person with an analytical mindset and a strong focus on problem-solving. I enjoy tackling technical challenges, learning new technologies, and working collaboratively. I also perform well under pressure and have the ability to understand English documentation and resources, which allows me to stay up-to-date and keep growing professionally.
+
+I am always looking for opportunities to grow, contribute to real-world projects, and strengthen my software development skills.
 </div>
 
 
 
-## Sobre mi:
 
-I am a recently graduated Software Development Technician, with knowledge of HTML, CSS, and JavaScript, and a more advanced understanding of Java, SQL, and GitHub. Although my experience with object-oriented programming is still developing, I am focused on continuing to learn and specializing in backend development.
-
-I consider myself a creative person with an analytical mindset and a strong focus on problem-solving. I enjoy tackling technical challenges, learning new technologies, and working collaboratively. I also perform well under pressure and have the ability to understand English documentation and resources, which allows me to stay up-to-date and keep growing professionally.
-
-I am always looking for opportunities to grow, contribute to real-world projects, and strengthen my software development skills.
-
-I am a recently graduated Software Development Technician, with knowledge of HTML, CSS, and JavaScript, and a more advanced understanding of Java, SQL, and GitHub. Although my experience with object-oriented programming is still developing, I am focused on continuing to learn and specializing in backend development.
-
-I consider myself a creative person with an analytical mindset and a strong focus on problem-solving. I enjoy tackling technical challenges, learning new technologies, and working collaboratively. I also perform well under pressure and have the ability to understand English documentation and resources, which allows me to stay up-to-date and keep growing professionally.
-
-I am always looking for opportunities to grow, contribute to real-world projects, and strengthen my software development skills.
 
