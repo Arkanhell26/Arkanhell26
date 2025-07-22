@@ -46,8 +46,9 @@ I am a recently graduated Software Development Technician possessing knowledge o
 
 <!-- Statistics -->
 
+ <h2 style="display: inline-block"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Profile Statistics</h2>
+
 <div align = "center">
-  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Profile Statistics</h3>
   
   <img alt = "my stats" align = "left" width = "47%" height="180em" src= "https://github-readme-stats.vercel.app/api?username=Arkanhell26&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile"/>
 
