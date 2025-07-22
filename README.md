@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align = "center">
+  <h1 align = "center">Hola soy Miguel Angel Moreno</h1>
+</div>
