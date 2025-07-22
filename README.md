@@ -22,7 +22,6 @@ Here are some ideas to get you started:
  ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/Banner.svg)
 
 <br>
-<br>
  
   ## About me:
 
