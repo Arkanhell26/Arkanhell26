@@ -42,9 +42,7 @@ I am a recently graduated Software Development Technician possessing knowledge o
   </a>
 </p>
 
-<div align = "center">
-  
-</div>
+<br>
 
 <!-- Statistics -->
 
