@@ -33,12 +33,32 @@ I am a recently graduated Software Development Technician possessing knowledge o
     <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,discord,html,css,js,java,mysql,vscode" />
   </a>
 </p>
+
+<!-- Statistics -->
+
+<div align = "center">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Analytics</h3>
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
+</div>
 
 
 
