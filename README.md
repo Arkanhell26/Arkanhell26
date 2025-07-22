@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 <div align = "center">
   <h1 align = "center">Hola soy Miguel Angel Moreno 👋</h1>
 </div>
+
+## Sobre mi:
+
+Soy técnico en Desarrollo de Software recién egresado, con conocimientos en HTML, CSS y JavaScript, y un manejo más avanzado de Java, SQL y GitHub. Aunque mi experiencia en programación orientada a objetos está en desarrollo, estoy enfocado en seguir aprendiendo y especializándome en el desarrollo backend.
+
+Me considero una persona creativa, con mentalidad analítica y orientada a la solución de problemas. Disfruto enfrentar desafíos técnicos, aprender nuevas tecnologías y trabajar en equipo. También me desenvuelvo bien bajo presión y tengo la capacidad de comprender documentación y recursos en inglés, lo que me permite mantenerme actualizado y seguir creciendo profesionalmente.
+
+Actualmente busco oportunidades para mejorar mis habilidades como desarrollador backend, participar en proyectos reales y continuar desarrollándome dentro del mundo del software.
