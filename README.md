@@ -19,8 +19,10 @@ Here are some ideas to get you started:
   <h1 align = "center">Hola soy Miguel Angel Moreno 👋</h1>
 </div>
 
+<div align = "center">
+   ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/Banner.svg)
+</div>
 
- ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/Banner.svg)
 
 
 ## Sobre mi:
