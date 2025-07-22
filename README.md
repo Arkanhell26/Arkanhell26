@@ -44,8 +44,7 @@ I am a recently graduated Software Development Technician possessing knowledge o
 
 <!-- Statistics -->
 
-<div align = "center">
-<p align="center">
+
 ![Arkanhell26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkanhell26&show_icons=true&theme=shadow_blue)
   
   <a href="https://github.com/Adityakanoi2001">
@@ -56,7 +55,6 @@ I am a recently graduated Software Development Technician possessing knowledge o
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
-</div>
 
 
 
