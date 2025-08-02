@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-  <h1 align = "center">Hi there I'm Miguel Angel Moreno 👋</h1>
+  <h1 align = "center">Hi there 👋</h1>
 </div>
 
 
