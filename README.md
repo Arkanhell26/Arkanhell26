@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋
+![Banner II](https://github.com/user-attachments/assets/3d8b3ed7-996b-436b-8b89-d9f2fdcc0fe5)<!-- ## Hi there 👋
 
 <!--
 **Arkanhell26/Arkanhell26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <div align = "center">
   <h1 align = "center">Hi there I'm Miguel Angel Moreno 👋</h1>
 </div>
+
+
+![Banner de desarrollador](bannerII.svg)
 
  ![Image Alt](https://github.com/Arkanhell26/Arkanhell26/blob/0bbd41910e899ae853c9ee8ca04f28d825585fc3/Images/BannerII.svg)
 
