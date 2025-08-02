@@ -1,4 +1,4 @@
-![Banner II](https://github.com/user-attachments/assets/3d8b3ed7-996b-436b-8b89-d9f2fdcc0fe5)<!-- ## Hi there 👋
+<!-- ## Hi there 👋
 
 <!--
 **Arkanhell26/Arkanhell26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 
-![Banner de desarrollador](bannerII.svg)
+![Banner II](https://github.com/user-attachments/assets/3d8b3ed7-996b-436b-8b89-d9f2fdcc0fe5)
 
 
  <h2 style="display: inline-block">💬 About me:</h2>
